@@ -73,4 +73,12 @@ The possibilities are endless GUI's idea with CREATE.
 <img width="467" alt="Example 1" src="https://raw.githubusercontent.com/Proxlight/Create/main/Example1.png">
 
 ### URL cutter
-<img width="467" alt="Example 1" src="https://raw.githubusercontent.com/Proxlight/Create/main/Example1.png">
+<img width="467" alt="Example 2" src="https://raw.githubusercontent.com/Proxlight/Create/main/Example2.png">
+
+
+---
+
+<p align="center">
+
+  <h6 align="center" style="margin: 0 auto 0 auto;">Copyright © Proxlight all right reserved 2021</h1>
+  </p>
