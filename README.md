@@ -24,7 +24,19 @@ ___
 
 Donate us on Gumroad
 
-<a href="https://gum.co/Deadc" target="_blank"><img src="https://assets.website-files.com/609bfbe57ec8f3547d866cd7/609c31b0a526ef442513e8cc_gumroad.svg" alt="Donate on gumroad" width="100px" ></a>
+<a href="https://gum.co/Deadc" target="_blank"><img src="https://assets.website-files.com/609bfbe57ec8f3547d866cd7/609c31b0a526ef442513e8cc_gumroad.svg" alt="Donate on gumroad" width="50px" ></a>
+
+## 🛠  Installing Proxlight Designer
+
+```
+git clone 
+
+cd Tkinter-Designer
+
+pip3 install -r requirements.txt
+
+python3 tkinter_designer.py
+```
 
 
 ### Sign up Page
