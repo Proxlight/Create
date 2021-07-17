@@ -10,7 +10,7 @@
 ## 💡 Introduction
 
 <b>CREATE</b> is a console-based tool that lets you create amazing GUI within seconds, It uses Tkinter module alongside ttk themes for making GUI.
-___
+<br>
 
 ## ☄️  Advantages of <b>CREATE</b>
 
@@ -18,8 +18,10 @@ ___
 2. Pre build theme
 3. Modern GUI
 
-___
+
 <br>
+
+
 ## 🦋 Supporting Proxlight Designer
 
 Donate us on Gumroad
@@ -80,5 +82,5 @@ The possibilities are endless GUI's idea with CREATE.
 
 <p align="center">
 
-  <h6 align="center" style="margin: 0 auto 0 auto;">Copyright © Proxlight all right reserved 2021</h1>
+  <h6 align="center" style="margin: 0 auto 0 auto;">Copyright © Proxlight All Right Reserved 2021</h1>
   </p>
