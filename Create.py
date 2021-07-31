@@ -253,9 +253,23 @@ g = tk.DoubleVar(value=75.0)
 
 
 def run():
+    f=open(app_name+".py")
+    output = []
+
+    for line in f:
+
+        if not "root.mainloop()" in line:
+
+            output.append(line)
+
+    f.close()
+
+    f = open("Run_Demo.py", 'w')
+
+    f.writelines(output)
     f.write('''\nroot.mainloop()''')
     f.flush()
-    os.popen("python "+app_name+".py")
+    os.popen("python Run_Demo.py")
     print("Running "+app_name+".py")
 
 def export():
@@ -267,6 +281,7 @@ def export():
 
 def image():
     print("\nADD Image (Not supported yet!) ")
+    
 
 
 
