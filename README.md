@@ -45,7 +45,7 @@ cd create
 
 3. Install Requirements
 ```
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 4. Run CREATE
